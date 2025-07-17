@@ -1,6 +1,3 @@
-Based on the files you've uploaded (`Virtual_Mouse.py`, `voice_recognition.py`, `README.md`, and `requirements.txt`), here is a structured and improved GitHub repository setup including:
-
----
 
 ## ✅ **README.md (Revised & Complete)**
 
